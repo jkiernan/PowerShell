@@ -1,6 +1,13 @@
-﻿$DownloadDirectory = "D:\Seedbox\Completed_Downloads"
-$AnimeList = Get-Content ".\AnimeList.txt"
-$FolderPath = Get-ChildItem -Directory -Path "Y:" | Select -ExpandProperty Name
+﻿If ($env:COMPUTERNAME -eq "JPK-HTPC") {
+    $Script:DownloadDirectory = "D:\Seedbox\Completed_Downloads"
+    $Script:AnimeList = Get-Content ".\AnimeList.txt"
+}
+If ($env:COMPUTERNAME -eq "JPK-PC2") {
+    $Script:DownloadDirectory = "Z:\Completed_Downloads"
+
+    $Script:AnimeList = Get-Content "D:\Dropbox\Your team Dropbox\James Kiernan\Computer\Documents\GitHub\PowerShell\AnimeList.txt"
+}
+$FolderPath = Get-ChildItem -Path "Y:" | Select -ExpandProperty Name
 $Downloads = Get-ChildItem -Path $DownloadDirectory -Filter "`[HorribleSubs`]*.mkv" -Recurse | Select -exp FullName
 foreach ($Episode in $Downloads) {
     $EpisodeName = Split-Path $Episode -Leaf
@@ -17,10 +24,8 @@ foreach ($Episode in $Downloads) {
                         Write-Host "Folder '$Folder' for '$Anime' exists." -ForegroundColor Green
                         Write-Host "New filename will be '$NewEpisodeName'." -ForegroundColor Green
                         If(!(Test-Path -Path "Y:\$Folder\$NewEpisodeName")) {
-                            $Source = $Downloads.fullname
                             Write-Host "'Y:\$Folder\$NewEpisodeName' does not exist. File will now be copied." -ForegroundColor Green
                             Robocopy.exe $EpisodePath "Y:\$Folder" $EpisodeName /copyall
-                            #Rename-Item -Path "Y:\$Folder\$EpisodeName" -NewName "Y:\$Folder\$NewEpisodeName"
                         }
                     }
                 }
