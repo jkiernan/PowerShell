@@ -1718,3 +1718,1147 @@ The specified account does not exist.
 Windows PowerShell transcript end
 End time: 20181007191314
 **********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181007191821
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command & 'C:\Users\HTPC\.vscode\extensions\ms-vscode.powershell-1.7.0\modules\PowerShellEditorServices\Start-EditorServices.ps1' -HostName 'Visual Studio Code Host' -HostProfileId 'Microsoft.VSCode' -HostVersion '1.7.0' -AdditionalModules @('PowerShellEditorServices.VSCode') -BundledModulesPath 'C:\Users\HTPC\.vscode\extensions\ms-vscode.powershell-1.7.0\modules' -EnableConsoleRepl -LogLevel 'Normal' -LogPath 'C:\Users\HTPC\.vscode\extensions\ms-vscode.powershell-1.7.0\logs\1538954226-46cc654b-fe7c-44fa-8e8d-ac5e3f8864811538954222761\EditorServices.log' -SessionDetailsPath 'C:\Users\HTPC\.vscode\extensions\ms-vscode.powershell-1.7.0\sessions\PSES-VSCode-22240-341464' -FeatureFlags @()
+Process ID: 18948
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+'[HorribleSubs] Ace Attorney S2 - 01 [720p].mkv' matches  'Ace Attorney'.
+Folder 'Ace Attorney' for 'Ace Attorney' exists.
+'\\JPK-NAS2\TV_Shows\Ace Attorney\Ace Attorney S2 - 01.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Ace Attorney\[HorribleSubs] Ace Attorney S2 - 01 
+[720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Ace Attorney\[HorribleSubs] Ace Attorney S2 - 01 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Bonobono - 129 [720p].mkv' matches  'Bonobono'.
+Folder 'Bonobono' for 'Bonobono' exists.
+'\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Bonobono\[HorribleSubs] Bonobono - 129 [720p].mkv' 
+does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Bonobono\[HorribleSubs] Bonobono - 129 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 49 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 49 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 49 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 50 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 50 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 50 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 51 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 51 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 51 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 52 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 52 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 52 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 53 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 53 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 53 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 54 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 54 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 54 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 55 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 55 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 55 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 56 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 56 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 56 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 57 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 57 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 57 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 58 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 58 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 58 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 59 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 59 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 59 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 60 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 60 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 60 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 61 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 61 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 61 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 62 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 62 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 62 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 63 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 63 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 63 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 64 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 64 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 64 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 65 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 65 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 65 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 66 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 66 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 66 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 67 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 67 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 67 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 68 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 68 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 68 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 69 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 69 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 69 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 70 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 70 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 70 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 71 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 71 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 71 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 72 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 72 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 72 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 73 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 73 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 73 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 74 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 74 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 74 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 75 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 75 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 75 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 76 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto 
+- Naruto Next Generations - 76 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\[HorribleSubs] Boruto - Naruto Next Generations - 76 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Gakuen Basara - 01 [720p].mkv' matches  'Gakuen Basara'.
+Folder 'Gakuen Basara' for 'Gakuen Basara' exists.
+'\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Gakuen Basara\[HorribleSubs] Gakuen Basara - 01 
+[720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Gakuen Basara\[HorribleSubs] Gakuen Basara - 01 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Goblin Slayer - 01 [720p].mkv' matches  'Goblin Slayer'.
+Folder 'Goblin Slayer' for 'Goblin Slayer' exists.
+'\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Goblin Slayer\[HorribleSubs] Goblin Slayer - 01 
+[720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Goblin Slayer\[HorribleSubs] Goblin Slayer - 01 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Kishuku Gakkou no Juliet - 01 [720p].mkv' matches  'Kishuku Gakkou no Juliet'.
+Folder 'Kishuku Gakkou no Juliet' for 'Kishuku Gakkou no Juliet' exists.
+'\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\[HorribleSubs] Kishuku Gakkou 
+no Juliet - 01 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\[HorribleSubs] Kishuku Gakkou no Juliet - 01 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Puzzle and Dragons Cross - 87 [720p].mkv' matches  'Puzzle and Dragons Cross'.
+Folder 'Puzzle and Dragons Cross' for 'Puzzle and Dragons Cross' exists.
+'\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\[HorribleSubs] Puzzle and 
+Dragons Cross - 87 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\[HorribleSubs] Puzzle and Dragons Cross - 87 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Radiant - 01 [720p].mkv' matches  'Radiant'.
+Folder 'Radiant' for 'Radiant' exists.
+'\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Radiant\[HorribleSubs] Radiant - 01 [720p].mkv' does 
+not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Radiant\[HorribleSubs] Radiant - 01 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Release the Spyce - 01 [720p].mkv' matches  'Release the Spyce'.
+Folder 'Release the Spyce' for 'Release the Spyce' exists.
+'\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Release the Spyce\[HorribleSubs] Release the Spyce - 
+01 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Release the Spyce\[HorribleSubs] Release the Spyce - 01 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Shingeki no Kyojin S3 - 38 [720p].mkv' matches  'Shingeki no Kyojin'.
+Folder 'Shingeki no Kyojin' for 'Shingeki no Kyojin' exists.
+'\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Shingeki no Kyojin S3 - 38.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\[HorribleSubs] Shingeki no Kyojin 
+S3 - 38 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\[HorribleSubs] Shingeki no Kyojin S3 - 38 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Shingeki no Kyojin S3 - 39 [720p].mkv' matches  'Shingeki no Kyojin'.
+Folder 'Shingeki no Kyojin' for 'Shingeki no Kyojin' exists.
+'\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Shingeki no Kyojin S3 - 39.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\[HorribleSubs] Shingeki no Kyojin 
+S3 - 39 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\[HorribleSubs] Shingeki no Kyojin S3 - 39 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Shingeki no Kyojin S3 - 40 [720p].mkv' matches  'Shingeki no Kyojin'.
+Folder 'Shingeki no Kyojin' for 'Shingeki no Kyojin' exists.
+'\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Shingeki no Kyojin S3 - 40.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\[HorribleSubs] Shingeki no Kyojin 
+S3 - 40 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\[HorribleSubs] Shingeki no Kyojin S3 - 40 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Shingeki no Kyojin S3 - 41 [720p].mkv' matches  'Shingeki no Kyojin'.
+Folder 'Shingeki no Kyojin' for 'Shingeki no Kyojin' exists.
+'\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Shingeki no Kyojin S3 - 41.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\[HorribleSubs] Shingeki no Kyojin 
+S3 - 41 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\[HorribleSubs] Shingeki no Kyojin S3 - 41 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Shingeki no Kyojin S3 - 42 [720p].mkv' matches  'Shingeki no Kyojin'.
+Folder 'Shingeki no Kyojin' for 'Shingeki no Kyojin' exists.
+'\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Shingeki no Kyojin S3 - 42.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\[HorribleSubs] Shingeki no Kyojin 
+S3 - 42 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\[HorribleSubs] Shingeki no Kyojin S3 - 42 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Shingeki no Kyojin S3 - 43 [720p].mkv' matches  'Shingeki no Kyojin'.
+Folder 'Shingeki no Kyojin' for 'Shingeki no Kyojin' exists.
+'\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Shingeki no Kyojin S3 - 43.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\[HorribleSubs] Shingeki no Kyojin 
+S3 - 43 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\[HorribleSubs] Shingeki no Kyojin S3 - 43 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Shingeki no Kyojin S3 - 44 [720p].mkv' matches  'Shingeki no Kyojin'.
+Folder 'Shingeki no Kyojin' for 'Shingeki no Kyojin' exists.
+'\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Shingeki no Kyojin S3 - 44.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\[HorribleSubs] Shingeki no Kyojin 
+S3 - 44 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\[HorribleSubs] Shingeki no Kyojin S3 - 44 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Shingeki no Kyojin S3 - 45 [720p].mkv' matches  'Shingeki no Kyojin'.
+Folder 'Shingeki no Kyojin' for 'Shingeki no Kyojin' exists.
+'\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Shingeki no Kyojin S3 - 45.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\[HorribleSubs] Shingeki no Kyojin 
+S3 - 45 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\[HorribleSubs] Shingeki no Kyojin S3 - 45 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Shingeki no Kyojin S3 - 46 [720p].mkv' matches  'Shingeki no Kyojin'.
+Folder 'Shingeki no Kyojin' for 'Shingeki no Kyojin' exists.
+'\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Shingeki no Kyojin S3 - 46.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\[HorribleSubs] Shingeki no Kyojin 
+S3 - 46 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\[HorribleSubs] Shingeki no Kyojin S3 - 46 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Shingeki no Kyojin S3 - 47 [720p].mkv' matches  'Shingeki no Kyojin'.
+Folder 'Shingeki no Kyojin' for 'Shingeki no Kyojin' exists.
+'\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Shingeki no Kyojin S3 - 47.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\[HorribleSubs] Shingeki no Kyojin 
+S3 - 47 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\[HorribleSubs] Shingeki no Kyojin S3 - 47 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Shingeki no Kyojin S3 - 48 [720p].mkv' matches  'Shingeki no Kyojin'.
+Folder 'Shingeki no Kyojin' for 'Shingeki no Kyojin' exists.
+'\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Shingeki no Kyojin S3 - 48.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\[HorribleSubs] Shingeki no Kyojin 
+S3 - 48 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\[HorribleSubs] Shingeki no Kyojin S3 - 48 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] SSSS.Gridman - 01 [720p].mkv' matches  'SSSS.Gridman'.
+Folder 'SSSS.Gridman' for 'SSSS.Gridman' exists.
+'\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\SSSS.Gridman\[HorribleSubs] SSSS.Gridman - 01 
+[720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\SSSS.Gridman\[HorribleSubs] SSSS.Gridman - 01 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Irozuku Sekai no Ashita kara - 01 [720p].mkv' matches  'Irozuku Sekai no Ashita kara'.
+Folder 'Irozuku Sekai no Ashita kara' for 'Irozuku Sekai no Ashita kara' exists.
+'\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\[HorribleSubs] Irozuku 
+Sekai no Ashita kara - 01 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\[HorribleSubs] Irozuku Sekai no Ashita kara - 01 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+'[HorribleSubs] Yagate Kimi ni Naru - 01 [720p].mkv' matches  'Yagate Kimi ni Naru'.
+Folder 'Yagate Kimi ni Naru' for 'Yagate Kimi ni Naru' exists.
+'\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv' does not exist. File will now be copied.
+
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\[HorribleSubs] Yagate Kimi ni Naru 
+- 01 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+Rename-Item : Cannot rename because item at '\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\[HorribleSubs] Yagate Kimi ni Naru - 01 [720p].mkv' does not exist.
+At C:\Github\PowerShell\AnimeScraper.ps1:31 char:29
++ ...             Rename-Item -Path $TvDir\$Folder\$EpisodeName -NewName $N ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (:) [Rename-Item], PSInvalidOperationException
+    + FullyQualifiedErrorId : InvalidOperation,Microsoft.PowerShell.Commands.RenameItemCommand
+
+**********************
+Windows PowerShell transcript end
+End time: 20181007191830
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181007191927
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command & 'C:\Users\HTPC\.vscode\extensions\ms-vscode.powershell-1.7.0\modules\PowerShellEditorServices\Start-EditorServices.ps1' -HostName 'Visual Studio Code Host' -HostProfileId 'Microsoft.VSCode' -HostVersion '1.7.0' -AdditionalModules @('PowerShellEditorServices.VSCode') -BundledModulesPath 'C:\Users\HTPC\.vscode\extensions\ms-vscode.powershell-1.7.0\modules' -EnableConsoleRepl -LogLevel 'Normal' -LogPath 'C:\Users\HTPC\.vscode\extensions\ms-vscode.powershell-1.7.0\logs\1538954226-46cc654b-fe7c-44fa-8e8d-ac5e3f8864811538954222761\EditorServices.log' -SessionDetailsPath 'C:\Users\HTPC\.vscode\extensions\ms-vscode.powershell-1.7.0\sessions\PSES-VSCode-22240-341464' -FeatureFlags @()
+Process ID: 18948
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+'[HorribleSubs] Ace Attorney S2 - 01 [720p].mkv' matches  'Ace Attorney'.
+Folder 'Ace Attorney' for 'Ace Attorney' exists.
+'\\JPK-NAS2\TV_Shows\Ace Attorney\Ace Attorney S2 - 01.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Bonobono - 129 [720p].mkv' matches  'Bonobono'.
+Folder 'Bonobono' for 'Bonobono' exists.
+'\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 49 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 50 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 51 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 52 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 53 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 54 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 55 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 56 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 57 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 58 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 59 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 60 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 61 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 62 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 63 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 64 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 65 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 66 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 67 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 68 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 69 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 70 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 71 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 72 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 73 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 74 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 75 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Boruto - Naruto Next Generations - 76 [720p].mkv' matches  'Boruto - Naruto Next Generations'.
+Folder 'Boruto - Naruto Next Generations' for 'Boruto - Naruto Next Generations' exists.
+'\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Gakuen Basara - 01 [720p].mkv' matches  'Gakuen Basara'.
+Folder 'Gakuen Basara' for 'Gakuen Basara' exists.
+'\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Goblin Slayer - 01 [720p].mkv' matches  'Goblin Slayer'.
+Folder 'Goblin Slayer' for 'Goblin Slayer' exists.
+'\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Kishuku Gakkou no Juliet - 01 [720p].mkv' matches  'Kishuku Gakkou no Juliet'.
+Folder 'Kishuku Gakkou no Juliet' for 'Kishuku Gakkou no Juliet' exists.
+'\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Puzzle and Dragons Cross - 87 [720p].mkv' matches  'Puzzle and Dragons Cross'.
+Folder 'Puzzle and Dragons Cross' for 'Puzzle and Dragons Cross' exists.
+'\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Radiant - 01 [720p].mkv' matches  'Radiant'.
+Folder 'Radiant' for 'Radiant' exists.
+'\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Release the Spyce - 01 [720p].mkv' matches  'Release the Spyce'.
+Folder 'Release the Spyce' for 'Release the Spyce' exists.
+'\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Shingeki no Kyojin S3 - 38 [720p].mkv' matches  'Shingeki no Kyojin'.
+Folder 'Shingeki no Kyojin' for 'Shingeki no Kyojin' exists.
+'\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Shingeki no Kyojin S3 - 38.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Shingeki no Kyojin S3 - 39 [720p].mkv' matches  'Shingeki no Kyojin'.
+Folder 'Shingeki no Kyojin' for 'Shingeki no Kyojin' exists.
+'\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Shingeki no Kyojin S3 - 39.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Shingeki no Kyojin S3 - 40 [720p].mkv' matches  'Shingeki no Kyojin'.
+Folder 'Shingeki no Kyojin' for 'Shingeki no Kyojin' exists.
+'\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Shingeki no Kyojin S3 - 40.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Shingeki no Kyojin S3 - 41 [720p].mkv' matches  'Shingeki no Kyojin'.
+Folder 'Shingeki no Kyojin' for 'Shingeki no Kyojin' exists.
+'\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Shingeki no Kyojin S3 - 41.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Shingeki no Kyojin S3 - 42 [720p].mkv' matches  'Shingeki no Kyojin'.
+Folder 'Shingeki no Kyojin' for 'Shingeki no Kyojin' exists.
+'\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Shingeki no Kyojin S3 - 42.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Shingeki no Kyojin S3 - 43 [720p].mkv' matches  'Shingeki no Kyojin'.
+Folder 'Shingeki no Kyojin' for 'Shingeki no Kyojin' exists.
+'\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Shingeki no Kyojin S3 - 43.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Shingeki no Kyojin S3 - 44 [720p].mkv' matches  'Shingeki no Kyojin'.
+Folder 'Shingeki no Kyojin' for 'Shingeki no Kyojin' exists.
+'\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Shingeki no Kyojin S3 - 44.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Shingeki no Kyojin S3 - 45 [720p].mkv' matches  'Shingeki no Kyojin'.
+Folder 'Shingeki no Kyojin' for 'Shingeki no Kyojin' exists.
+'\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Shingeki no Kyojin S3 - 45.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Shingeki no Kyojin S3 - 46 [720p].mkv' matches  'Shingeki no Kyojin'.
+Folder 'Shingeki no Kyojin' for 'Shingeki no Kyojin' exists.
+'\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Shingeki no Kyojin S3 - 46.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Shingeki no Kyojin S3 - 47 [720p].mkv' matches  'Shingeki no Kyojin'.
+Folder 'Shingeki no Kyojin' for 'Shingeki no Kyojin' exists.
+'\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Shingeki no Kyojin S3 - 47.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Shingeki no Kyojin S3 - 48 [720p].mkv' matches  'Shingeki no Kyojin'.
+Folder 'Shingeki no Kyojin' for 'Shingeki no Kyojin' exists.
+'\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Shingeki no Kyojin S3 - 48.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] SSSS.Gridman - 01 [720p].mkv' matches  'SSSS.Gridman'.
+Folder 'SSSS.Gridman' for 'SSSS.Gridman' exists.
+'\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Irozuku Sekai no Ashita kara - 01 [720p].mkv' matches  'Irozuku Sekai no Ashita kara'.
+Folder 'Irozuku Sekai no Ashita kara' for 'Irozuku Sekai no Ashita kara' exists.
+'\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv' does not exist. File will now be copied.
+
+'[HorribleSubs] Yagate Kimi ni Naru - 01 [720p].mkv' matches  'Yagate Kimi ni Naru'.
+Folder 'Yagate Kimi ni Naru' for 'Yagate Kimi ni Naru' exists.
+'\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv' does not exist. File will now be copied.
+
+**********************
+Windows PowerShell transcript end
+End time: 20181007191932
+**********************

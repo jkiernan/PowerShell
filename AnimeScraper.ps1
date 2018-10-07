@@ -24,10 +24,11 @@ foreach ($Episode in $Downloads) {
                     $NewEpisodeName = $NewEpisodeName +".mkv" # Add back ".mkv" extension
                     If (Test-Path "$TvDir\$Folder") {
                         Write-Host "Folder '$Folder' for '$Anime' exists." -ForegroundColor Green
-                        #Write-Host "New filename will be '$NewEpisodeName'." -ForegroundColor Green
+                        Write-Host "New filename will be '$NewEpisodeName'." -ForegroundColor Green
                         If(!(Test-Path -Path "$TvDir\$Folder\$NewEpisodeName")) {
                             Write-Host "'$TvDir\$Folder\$NewEpisodeName' does not exist. File will now be copied." -ForegroundColor Green
                             Robocopy.exe $EpisodePath "$TvDir\$Folder" $EpisodeName /copyall
+                            Rename-Item -LiteralPath $TvDir\$Folder\$EpisodeName -NewName $NewEpisodeName -Force
                         }
                     }
                 }
