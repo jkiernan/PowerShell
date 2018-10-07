@@ -4,7 +4,6 @@
 }
 If ($env:COMPUTERNAME -eq "JPK-PC2") {
     $Script:DownloadDirectory = "Z:\Completed_Downloads"
-
     $Script:AnimeList = Get-Content "D:\Dropbox\Your team Dropbox\James Kiernan\Computer\Documents\GitHub\PowerShell\AnimeList.txt"
 }
 $FolderPath = Get-ChildItem -Path "Y:" | Select -ExpandProperty Name
@@ -22,7 +21,7 @@ foreach ($Episode in $Downloads) {
                     $NewEpisodeName = $NewEpisodeName +".mkv" # Add back ".mkv" extension
                     If (Test-Path "Y:\$Folder") {
                         Write-Host "Folder '$Folder' for '$Anime' exists." -ForegroundColor Green
-                        Write-Host "New filename will be '$NewEpisodeName'." -ForegroundColor Green
+                        #Write-Host "New filename will be '$NewEpisodeName'." -ForegroundColor Green
                         If(!(Test-Path -Path "Y:\$Folder\$NewEpisodeName")) {
                             Write-Host "'Y:\$Folder\$NewEpisodeName' does not exist. File will now be copied." -ForegroundColor Green
                             Robocopy.exe $EpisodePath "Y:\$Folder" $EpisodeName /copyall
