@@ -1,15 +1,15 @@
-﻿If ($env:COMPUTERNAME -eq "JPK-HTPC") {
+﻿$Script:LogFile = "C:\Github\PowerShell\AnimeScraper.log"
+Start-Transcript -Path $LogFile -Append
+$Script:TvDir = "\\JPK-NAS2\TV_Shows"
+If ($env:COMPUTERNAME -eq "JPK-HTPC") {
     $Script:DownloadDirectory = "D:\Seedbox\Completed_Downloads"
     $Script:AnimeList = Get-Content "C:\Github\PowerShell\AnimeList.txt"
-    $Script:LogFile = "C:\Github\PowerShell\AnimeScraperLog.log"
 }
 If ($env:COMPUTERNAME -eq "JPK-PC2") {
     $Script:DownloadDirectory = "Z:\Completed_Downloads"
     $Script:AnimeList = Get-Content "D:\Dropbox\Your team Dropbox\James Kiernan\Computer\Documents\GitHub\PowerShell\AnimeList.txt"
-    $Script:LogFile = "D:\Dropbox\Your team Dropbox\James Kiernan\Computer\Documents\GitHub\PowerShell\AnimeScraperLog.log"
 }
-Start-Transcript -Path $LogFile
-$FolderPath = Get-ChildItem -Path "Y:" | Select -ExpandProperty Name
+$FolderPath = Get-ChildItem -Path $TvDir| Select -ExpandProperty Name
 $Downloads = Get-ChildItem -Path $DownloadDirectory -Filter "`[HorribleSubs`]*.mkv" -Recurse | Select -exp FullName
 foreach ($Episode in $Downloads) {
     $EpisodeName = Split-Path $Episode -Leaf
@@ -22,12 +22,12 @@ foreach ($Episode in $Downloads) {
                     $NewEpisodeName = $EpisodeName.Substring(15) # Trim "[HorribleSubs]" prefix
                     $NewEpisodeName = $NewEpisodeName.Substring(0,$NewEpisodeName.Length-11) # Trim "[720].mkv" suffix & extension
                     $NewEpisodeName = $NewEpisodeName +".mkv" # Add back ".mkv" extension
-                    If (Test-Path "Y:\$Folder") {
+                    If (Test-Path "$TvDir\$Folder") {
                         Write-Host "Folder '$Folder' for '$Anime' exists." -ForegroundColor Green
                         #Write-Host "New filename will be '$NewEpisodeName'." -ForegroundColor Green
-                        If(!(Test-Path -Path "Y:\$Folder\$NewEpisodeName")) {
-                            Write-Host "'Y:\$Folder\$NewEpisodeName' does not exist. File will now be copied." -ForegroundColor Green
-                            Robocopy.exe $EpisodePath "Y:\$Folder" $EpisodeName /copyall
+                        If(!(Test-Path -Path "$TvDir\$Folder\$NewEpisodeName")) {
+                            Write-Host "'$TvDir\$Folder\$NewEpisodeName' does not exist. File will now be copied." -ForegroundColor Green
+                            Robocopy.exe $EpisodePath "$TvDir\$Folder" $EpisodeName /copyall
                         }
                     }
                 }
