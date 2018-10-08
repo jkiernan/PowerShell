@@ -1,4 +1,5 @@
 ﻿$Script:LogFile = "C:\Github\PowerShell\AnimeScraper.log"
+$Season:SeasonList = Import-CSV "C:\Github\Powershell\AnimeSeasonList.csv"
 Start-Transcript -Path $LogFile -Append
 $Script:TvDir = "\\JPK-NAS2\TV_Shows"
 If ($env:COMPUTERNAME -eq "JPK-HTPC") {
@@ -25,6 +26,11 @@ foreach ($Episode in $Downloads) {
                     If (Test-Path "$TvDir\$Folder") {
                         Write-Host "Folder '$Folder' for '$Anime' exists." -ForegroundColor Green
                         Write-Host "New filename will be '$NewEpisodeName'." -ForegroundColor Green
+                        foreach ($Season in $SeasonList) {
+                            If ($EpisodeName -match $Season) {
+                                # Change $TvDir\$Folder to $TvDir\$Folder\$Season
+                            }
+                        }
                         If(!(Test-Path -Path "$TvDir\$Folder\$NewEpisodeName")) {
                             Write-Host "'$TvDir\$Folder\$NewEpisodeName' does not exist. File will now be copied." -ForegroundColor Green
                             Robocopy.exe $EpisodePath "$TvDir\$Folder" $EpisodeName /copyall
