@@ -1,14 +1,13 @@
 ﻿$Script:LogFile = "C:\Github\PowerShell\AnimeScraper.log"
+$Script:AnimeList = Get-Content "C:\Github\PowerShell\AnimeList.txt"
 Start-Transcript -Path $LogFile -Append
 $Script:SeasonIndex = Import-CSV "C:\Github\Powershell\AnimeSeasonIndex.csv"
 $Script:TvDir = "\\JPK-NAS2\TV_Shows"
 If ($env:COMPUTERNAME -eq "JPK-HTPC") {
     $Script:DownloadDirectory = "D:\Seedbox\Completed_Downloads"
-    $Script:AnimeList = Get-Content "C:\Github\PowerShell\AnimeList.txt"
 }
 If ($env:COMPUTERNAME -eq "JPK-PC2") {
     $Script:DownloadDirectory = "Z:\Completed_Downloads"
-    $Script:AnimeList = Get-Content "D:\Dropbox\Your team Dropbox\James Kiernan\Computer\Documents\GitHub\PowerShell\AnimeList.txt"
 }
 $FolderPath = Get-ChildItem -Path $TvDir| Select -ExpandProperty Name # Get list of TV Show folders
 $Downloads = Get-ChildItem -Path $DownloadDirectory -Filter "`[HorribleSubs`]*.mkv" -Recurse | Select -exp FullName # Get list of mkv files with "[HorribleSubs]" in filename
