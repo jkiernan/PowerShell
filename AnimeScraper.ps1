@@ -7,7 +7,7 @@ If ($env:COMPUTERNAME -eq "JPK-HTPC") {
     $Script:DownloadDirectory = "D:\Seedbox\Completed_Downloads"
 }
 If ($env:COMPUTERNAME -eq "JPK-PC2") {
-    $Script:DownloadDirectory = "Z:\Completed_Downloads"
+    $Script:DownloadDirectory = "\\JPK-HTPC\Seedbox\Completed_Downloads"
 }
 $FolderPath = Get-ChildItem -Path $TvDir| Select -ExpandProperty Name # Get list of TV Show folders
 $Downloads = Get-ChildItem -Path $DownloadDirectory -Filter "`[HorribleSubs`]*.mkv" -Recurse | Select -exp FullName # Get list of mkv files with "[HorribleSubs]" in filename
@@ -25,35 +25,37 @@ foreach ($Episode in $Downloads) {
                     If (Test-Path "$TvDir\$Folder") { # Verify Anime has a folder under \\JPK-NAS2\TV_Shows 
                         #Write-Host "Folder '$Folder' for '$Anime' exists." -ForegroundColor Green
                         #Write-Host "New filename will be '$NewEpisodeName'." -ForegroundColor Green
-                        foreach ($AnimeSeason in $SeasonIndex) {
-                            $Script:SeasonName = $AnimeSeason.Name # Anime Season Name
-                            $Script:SeasonFolder = $AnimeSeason.Folder # Anime Season Folder
-                            If ($NewEpisodeName -match $SeasonName) { # If name matches season - e.g. "'Shingeki no Kyojin S3 - 38.mkv' matches 'Shingeki no Kyojin S3'"
-                                # Change $TvDir\$Folder to $TvDir\$Folder\$Season
-                                If(Test-Path -Path "$TvDir\$Folder\$SeasonFolder\$NewEpisodeName") {
-                                    Write-Host "$TvDir\$Folder\$SeasonFolder\$NewEpisodeName already exists." -ForegroundColor Green
+                        If ($EpisodeName -match "Shingeki no Kyojin" -or $EpisodeName -match "Ace Attorney" -or $EpisodeName -match "JoJo's Bizarre Adventure") {
+                            foreach ($AnimeSeason in $SeasonIndex) {
+                                $Script:SeasonName = $AnimeSeason.Name # Anime Season Name
+                                $Script:SeasonFolder = $AnimeSeason.Folder # Anime Season Folder
+                                If ($NewEpisodeName -match $SeasonName) { # If name matches season - e.g. "'Shingeki no Kyojin S3 - 38.mkv' matches 'Shingeki no Kyojin S3'"
+                                    # Change $TvDir\$Folder to $TvDir\$Folder\$Season
+                                    If(Test-Path -Path "$TvDir\$Folder\$SeasonFolder\$NewEpisodeName") {
+                                        Write-Host "$TvDir\$Folder\$SeasonFolder\$NewEpisodeName already exists." -ForegroundColor Green
+                                        Break
+                                    } 
+                                    Else { # Verify if \\JPK-NAS\TV_Shows\$Anime\$Season\$Episode exists
+                                        Write-Host "'$TvDir\$Folder\$SeasonFolder\$NewEpisodeName' does not exist. File will now be copied." -ForegroundColor Green
+                                        Robocopy.exe $EpisodePath "$TvDir\$Folder\$SeasonFolder" $EpisodeName /copyall # Copy file to permanent folder
+                                        Write-Host "New episode name will be $NewEpisodeName."
+                                        Rename-Item -LiteralPath $TvDir\$Folder\$SeasonFolder\$EpisodeName -NewName $NewEpisodeName -Force # Rename file
+                                    }
                                     Break
-                                } 
-                                Else { # Verify if \\JPK-NAS\TV_Shows\$Anime\$Season\$Episode exists
-                                    Write-Host "'$TvDir\$Folder\$SeasonFolder\$NewEpisodeName' does not exist. File will now be copied." -ForegroundColor Green
-                                    Robocopy.exe $EpisodePath "$TvDir\$Folder\$SeasonFolder" $EpisodeName /copyall # Copy file to permanent folder
-                                    Write-Host "New episode name will be $NewEpisodeName."
-                                    Rename-Item -LiteralPath $TvDir\$Folder\$SeasonFolder\$EpisodeName -NewName $NewEpisodeName -Force # Rename file
                                 }
+                            }
+                            Break
+                        }
+                        If (!($EpisodeName -match "Shingeki no Kyojin" -or $EpisodeName -match "Ace Attorney" -or $EpisodeName -match "JoJo's Bizarre Adventure")) {
+                            If (Test-Path -Path "$TvDir\$Folder\$NewEpisodeName") {
+                                Write-Host "$TvDir\$Folder\$NewEpisodeName already exists." -ForegroundColor Green
                                 Break
                             }
-                            Else {  # If name doesn't match season - e.g. single-season shows
-                                If (Test-Path -Path "$TvDir\$Folder\$NewEpisodeName") {
-                                    Write-Host "$TvDir\$Folder\$NewEpisodeName already exists." -ForegroundColor Green
-                                    Break
-                                }
-                                Else {
-                                        Write-Host "'$TvDir\$Folder\$NewEpisodeName' does not exist. File will now be copied." -ForegroundColor Green
-                                        Robocopy.exe $EpisodePath "$TvDir\$Folder" $EpisodeName /copyall # Copy file to permanent folder
-                                        Write-Host "New episode name will be $NewEpisodeName." -ForegroundColor Green
-                                        Rename-Item -LiteralPath $TvDir\$Folder\$EpisodeName -NewName $NewEpisodeName -Force # Rename file
-                                }
-                                
+                            Else {
+                                    Write-Host "'$TvDir\$Folder\$NewEpisodeName' does not exist. File will now be copied." -ForegroundColor Green
+                                    Robocopy.exe $EpisodePath "$TvDir\$Folder" $EpisodeName /copyall # Copy file to permanent folder
+                                    Write-Host "New episode name will be $NewEpisodeName." -ForegroundColor Green
+                                    Rename-Item -LiteralPath $TvDir\$Folder\$EpisodeName -NewName $NewEpisodeName -Force # Rename file
                             }
                         }
                     }
