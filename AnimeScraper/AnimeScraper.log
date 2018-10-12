@@ -17742,3 +17742,22 @@ Transcript started, output file is .\AnimeScraper.log
 Windows PowerShell transcript end
 End time: 20181011131339
 **********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181011231146
+Username: JPK-PC2\JP
+RunAs User: JPK-PC2\JP
+Configuration Name: 
+Machine: JPK-PC2 (Microsoft Windows NT 10.0.17134.0)
+Host Application: C:\WINDOWS\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -NonInteractive -ExecutionPolicy Bypass -Command & 'C:\Users\JP\.vscode\extensions\ms-vscode.powershell-1.9.0\modules\PowerShellEditorServices\Start-EditorServices.ps1' -HostName 'Visual Studio Code Host' -HostProfileId 'Microsoft.VSCode' -HostVersion '1.9.0'-AdditionalModules @('PowerShellEditorServices.VSCode') -BundledModulesPath 'C:\Users\JP\.vscode\extensions\ms-vscode.powershell-1.9.0\modules'-EnableConsoleRepl -LogLevel 'Normal' -LogPath 'C:\Users\JP\.vscode\extensions\ms-vscode.powershell-1.9.0\logs\1539313846-ea2d7923-1d87-4404-a041-ff171f7fefcb1539313835660\EditorServices.log' -SessionDetailsPath 'C:\Users\JP\.vscode\extensions\ms-vscode.powershell-1.9.0\sessions\PSES-VSCode-15208-354666' -FeatureFlags @()
+Process ID: 13456
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log

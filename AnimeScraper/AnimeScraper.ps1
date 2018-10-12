@@ -1,7 +1,7 @@
-﻿$Script:LogFile = ".\AnimeScraper.log"
-$Script:AnimeList = Get-Content ".\AnimeList.txt"
+﻿$Script:LogFile = "C:\Github\Powershell\AnimeScraper\AnimeScraper.log"
+$Script:AnimeList = Get-Content "C:\Github\Powershell\AnimeScraper\AnimeList.txt"
 Start-Transcript -Path $LogFile -Append
-$Script:SeasonIndex = Import-CSV ".\AnimeSeasonIndex.csv"
+$Script:SeasonIndex = Import-CSV "C:\Github\Powershell\AnimeScraper\AnimeSeasonIndex.csv"
 $Script:TvDir = "\\JPK-NAS2\TV_Shows"
 If ($env:COMPUTERNAME -eq "JPK-HTPC") {
     $Script:DownloadDirectory = "D:\Seedbox\Completed_Downloads"
