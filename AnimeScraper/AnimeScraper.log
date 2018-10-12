@@ -17761,3 +17761,2128 @@ PSRemotingProtocolVersion: 2.3
 SerializationVersion: 1.1.0.1
 **********************
 Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+**********************
+Windows PowerShell transcript start
+Start time: 20181011233010
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 5616
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181011233220
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181012000003
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 6488
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181012000009
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181012003000
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 21448
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181012003007
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181012010000
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 13092
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181012010007
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181012013001
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 1968
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181012013305
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181012020002
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 11428
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181012020303
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181012023004
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 15760
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181012023258
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181012030003
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 4548
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181012030241
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181012033003
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 17660
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181012033256
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181012040004
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 8400
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181012040302
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181012043003
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 18216
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181012043228
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181012050004
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 18180
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181012050227
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181012053004
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 17940
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181012053215
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181012060002
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 8596
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181012060205
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181012063001
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 10128
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181012063209
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181012070002
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 10912
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181012070207
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181012073001
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 10724
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181012073007
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181012080001
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 8940
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181012080008
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181012083001
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 17988
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181012083009
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181012090000
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 21256
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181012090007
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181012093000
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 18184
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181012093007
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181012100000
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 20624
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181012100007
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181012103001
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 16504
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181012103007
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181012110001
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 15072
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181012110008
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181012113001
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 20068
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181012113007
+**********************
