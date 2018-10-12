@@ -25,7 +25,10 @@ foreach ($Episode in $Downloads) {
                     If (Test-Path "$TvDir\$Folder") { # Verify Anime has a folder under \\JPK-NAS2\TV_Shows 
                         #Write-Host "Folder '$Folder' for '$Anime' exists." -ForegroundColor Green
                         #Write-Host "New filename will be '$NewEpisodeName'." -ForegroundColor Green
-                        If ($EpisodeName -match "Shingeki no Kyojin" -or $EpisodeName -match "Ace Attorney" -or $EpisodeName -match "JoJo's Bizarre Adventure") {
+                        If ($EpisodeName -match "Shingeki no Kyojin" `
+                        -or $EpisodeName -match "Ace Attorney" `
+                        -or $EpisodeName -match "JoJo's Bizarre Adventure" `
+                        -or $EpisodeName -match "Toaru Majutsu no Index") {
                             foreach ($AnimeSeason in $SeasonIndex) {
                                 $Script:SeasonName = $AnimeSeason.Name # Anime Season Name
                                 $Script:SeasonFolder = $AnimeSeason.Folder # Anime Season Folder
