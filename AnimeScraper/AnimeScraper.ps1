@@ -27,6 +27,7 @@ foreach ($Episode in $Downloads) {
                         #Write-Host "New filename will be '$NewEpisodeName'." -ForegroundColor Green
                         If ($EpisodeName -match "Shingeki no Kyojin" `
                         -or $EpisodeName -match "Ace Attorney" `
+                        -or $EpisodeName -match "Sword Art Online" `
                         -or $EpisodeName -match "JoJo's Bizarre Adventure" `
                         -or $EpisodeName -match "Toaru Majutsu no Index") {
                             foreach ($AnimeSeason in $SeasonIndex) {

@@ -481,3 +481,928 @@ New episode name will be Tensei Shitara Slime Datta Ken - 06.mkv.
 Windows PowerShell transcript end
 End time: 20181113144601
 **********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181113145204
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 10400
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Beelzebub-jou no Okinimesu mama\Beelzebub-jou no Okinimesu mama. - 01 .mkv already exists.
+\\JPK-NAS2\TV_Shows\Beelzebub-jou no Okinimesu mama\Beelzebub-jou no Okinimesu mama. - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 77.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 78.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 79.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 80.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 81.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 01 .mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 01 .mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\Merc Storia - Mukiryoku Shounen to Bin no Naka no Shoujo\Merc Storia - Mukiryoku Shounen to Bin no Naka no Shoujo - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 02 .mkv already exists.
+\\JPK-NAS2\TV_Shows\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Sora to Umi no Aida\Sora to Umi no Aida - 02 .mkv already exists.
+\\JPK-NAS2\TV_Shows\Sora to Umi no Aida\Sora to Umi no Aida - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\Tensei Shitara Slime Datta Ken\Tensei Shitara Slime Datta Ken - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Tensei Shitara Slime Datta Ken\Tensei Shitara Slime Datta Ken - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Tensei Shitara Slime Datta Ken\Tensei Shitara Slime Datta Ken - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Tensei Shitara Slime Datta Ken\Tensei Shitara Slime Datta Ken - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Tensei Shitara Slime Datta Ken\Tensei Shitara Slime Datta Ken - 06.mkv already exists.
+'\\JPK-NAS2\TV_Shows\Tensei Shitara Slime Datta Ken\Tensei Shitara Slime Datta Ken - 07.mkv' does not exist. File will now be copied.
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows
+-------------------------------------------------------------------------------
+
+  Started : Tuesday, November 13, 2018 2:52:05 PM
+   Source : D:\Seedbox\Completed_Downloads\
+     Dest : \\JPK-NAS2\TV_Shows\Tensei Shitara Slime Datta Ken\
+
+    Files : [HorribleSubs] Tensei Shitara Slime Datta Ken - 07 [720p].mkv
+
+  Options : /COPYALL /R:1000000 /W:30
+
+------------------------------------------------------------------------------
+
+                           1    D:\Seedbox\Completed_Downloads\
+            New File             454.1 m        [HorribleSubs] Tensei Shitara Slime Datta Ken - 07
+100%  .mkv
+2018/11/13 14:52:21 ERROR 1317 (0x00000525) Copying NTFS Security to Destination File D:\Seedbox\Co
+mpleted_Downloads\[HorribleSubs] Tensei Shitara Slime Datta Ken - 07 [720p].mkv
+The specified account does not exist.
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         0         0         0         1         0
+   Bytes :  454.17 m         0         0         0  454.17 m         0
+   Times :   0:00:15   0:00:15                       0:00:00   0:00:00
+   Ended : Tuesday, November 13, 2018 2:52:21 PM
+New episode name will be Tensei Shitara Slime Datta Ken - 07.mkv.
+\\JPK-NAS2\TV_Shows\Toaru Majutsu no Index\Season 03\Toaru Majutsu no Index III - 01 .mkv already exists.
+\\JPK-NAS2\TV_Shows\Toaru Majutsu no Index\Season 03\Toaru Majutsu no Index III - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\Zombieland Saga\Zombieland Saga - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Zombieland Saga\Zombieland Saga - 02 .mkv already exists.
+\\JPK-NAS2\TV_Shows\Zombieland Saga\Zombieland Saga - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Zombieland Saga\Zombieland Saga - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Zombieland Saga\Zombieland Saga - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Zombieland Saga\Zombieland Saga - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Zombieland Saga\Zombieland Saga - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181113145221
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181113145339
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 11220
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Beelzebub-jou no Okinimesu mama\Beelzebub-jou no Okinimesu mama. - 01 .mkv already exists.
+\\JPK-NAS2\TV_Shows\Beelzebub-jou no Okinimesu mama\Beelzebub-jou no Okinimesu mama. - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 77.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 78.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 79.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 80.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 81.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 01 .mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 01 .mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\Merc Storia - Mukiryoku Shounen to Bin no Naka no Shoujo\Merc Storia - Mukiryoku Shounen to Bin no Naka no Shoujo - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 02 .mkv already exists.
+\\JPK-NAS2\TV_Shows\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Sora to Umi no Aida\Sora to Umi no Aida - 02 .mkv already exists.
+\\JPK-NAS2\TV_Shows\Sora to Umi no Aida\Sora to Umi no Aida - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 06.mkv already exists.
+'\\JPK-NAS2\TV_Shows\Sword Art Online\Sword Art Online - Alicization - 01.mkv' does not exist. File will now be copied.
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows
+-------------------------------------------------------------------------------
+
+  Started : Tuesday, November 13, 2018 2:53:41 PM
+   Source : D:\Seedbox\Completed_Downloads\
+     Dest : \\JPK-NAS2\TV_Shows\Sword Art Online\
+
+    Files : [HorribleSubs] Sword Art Online - Alicization - 01 [720p].mkv
+
+  Options : /COPYALL /R:1000000 /W:30
+
+------------------------------------------------------------------------------
+
+                           1    D:\Seedbox\Completed_Downloads\
+            New File             945.7 m        [HorribleSubs] Sword Art Online - Alicization - 01
+100%  .mkv
+2018/11/13 14:54:32 ERROR 1317 (0x00000525) Copying NTFS Security to Destination File D:\Seedbox\Co
+mpleted_Downloads\[HorribleSubs] Sword Art Online - Alicization - 01 [720p].mkv
+The specified account does not exist.
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         0         0         0         1         0
+   Bytes :  945.78 m         0         0         0  945.78 m         0
+   Times :   0:00:51   0:00:50                       0:00:00   0:00:00
+   Ended : Tuesday, November 13, 2018 2:54:32 PM
+New episode name will be Sword Art Online - Alicization - 01.mkv.
+'\\JPK-NAS2\TV_Shows\Sword Art Online\Sword Art Online - Alicization - 02.mkv' does not exist. File will now be copied.
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows
+-------------------------------------------------------------------------------
+
+  Started : Tuesday, November 13, 2018 2:54:32 PM
+   Source : D:\Seedbox\Completed_Downloads\
+     Dest : \\JPK-NAS2\TV_Shows\Sword Art Online\
+
+    Files : [HorribleSubs] Sword Art Online - Alicization - 02 [720p].mkv
+
+  Options : /COPYALL /R:1000000 /W:30
+
+------------------------------------------------------------------------------
+
+                           1    D:\Seedbox\Completed_Downloads\
+            New File             429.1 m        [HorribleSubs] Sword Art Online - Alicization - 02
+100%  .mkv
+2018/11/13 14:54:46 ERROR 1317 (0x00000525) Copying NTFS Security to Destination File D:\Seedbox\Co
+mpleted_Downloads\[HorribleSubs] Sword Art Online - Alicization - 02 [720p].mkv
+The specified account does not exist.
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         0         0         0         1         0
+   Bytes :  429.13 m         0         0         0  429.13 m         0
+   Times :   0:00:13   0:00:13                       0:00:00   0:00:00
+   Ended : Tuesday, November 13, 2018 2:54:46 PM
+New episode name will be Sword Art Online - Alicization - 02.mkv.
+'\\JPK-NAS2\TV_Shows\Sword Art Online\Sword Art Online - Alicization - 03.mkv' does not exist. File will now be copied.
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows
+-------------------------------------------------------------------------------
+
+  Started : Tuesday, November 13, 2018 2:54:46 PM
+   Source : D:\Seedbox\Completed_Downloads\
+     Dest : \\JPK-NAS2\TV_Shows\Sword Art Online\
+
+    Files : [HorribleSubs] Sword Art Online - Alicization - 03 [720p].mkv
+
+  Options : /COPYALL /R:1000000 /W:30
+
+------------------------------------------------------------------------------
+
+                           1    D:\Seedbox\Completed_Downloads\
+            New File             440.1 m        [HorribleSubs] Sword Art Online - Alicization - 03
+100%  .mkv
+2018/11/13 14:54:54 ERROR 1317 (0x00000525) Copying NTFS Security to Destination File D:\Seedbox\Co
+mpleted_Downloads\[HorribleSubs] Sword Art Online - Alicization - 03 [720p].mkv
+The specified account does not exist.
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         0         0         0         1         0
+   Bytes :  440.11 m         0         0         0  440.11 m         0
+   Times :   0:00:07   0:00:07                       0:00:00   0:00:00
+   Ended : Tuesday, November 13, 2018 2:54:54 PM
+New episode name will be Sword Art Online - Alicization - 03.mkv.
+'\\JPK-NAS2\TV_Shows\Sword Art Online\Sword Art Online - Alicization - 04.mkv' does not exist. File will now be copied.
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows
+-------------------------------------------------------------------------------
+
+  Started : Tuesday, November 13, 2018 2:54:54 PM
+   Source : D:\Seedbox\Completed_Downloads\
+     Dest : \\JPK-NAS2\TV_Shows\Sword Art Online\
+
+    Files : [HorribleSubs] Sword Art Online - Alicization - 04 [720p].mkv
+
+  Options : /COPYALL /R:1000000 /W:30
+
+------------------------------------------------------------------------------
+
+                           1    D:\Seedbox\Completed_Downloads\
+            New File             463.4 m        [HorribleSubs] Sword Art Online - Alicization - 04
+100%  .mkv
+2018/11/13 14:55:02 ERROR 1317 (0x00000525) Copying NTFS Security to Destination File D:\Seedbox\Co
+mpleted_Downloads\[HorribleSubs] Sword Art Online - Alicization - 04 [720p].mkv
+The specified account does not exist.
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         0         0         0         1         0
+   Bytes :  463.44 m         0         0         0  463.44 m         0
+   Times :   0:00:07   0:00:07                       0:00:00   0:00:00
+   Ended : Tuesday, November 13, 2018 2:55:02 PM
+New episode name will be Sword Art Online - Alicization - 04.mkv.
+'\\JPK-NAS2\TV_Shows\Sword Art Online\Sword Art Online - Alicization - 05.mkv' does not exist. File will now be copied.
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows
+-------------------------------------------------------------------------------
+
+  Started : Tuesday, November 13, 2018 2:55:02 PM
+   Source : D:\Seedbox\Completed_Downloads\
+     Dest : \\JPK-NAS2\TV_Shows\Sword Art Online\
+
+    Files : [HorribleSubs] Sword Art Online - Alicization - 05 [720p].mkv
+
+  Options : /COPYALL /R:1000000 /W:30
+
+------------------------------------------------------------------------------
+
+                           1    D:\Seedbox\Completed_Downloads\
+            New File             384.0 m        [HorribleSubs] Sword Art Online - Alicization - 05
+100%  .mkv
+2018/11/13 14:55:10 ERROR 1317 (0x00000525) Copying NTFS Security to Destination File D:\Seedbox\Co
+mpleted_Downloads\[HorribleSubs] Sword Art Online - Alicization - 05 [720p].mkv
+The specified account does not exist.
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         0         0         0         1         0
+   Bytes :  384.02 m         0         0         0  384.02 m         0
+   Times :   0:00:07   0:00:07                       0:00:00   0:00:00
+   Ended : Tuesday, November 13, 2018 2:55:10 PM
+New episode name will be Sword Art Online - Alicization - 05.mkv.
+'\\JPK-NAS2\TV_Shows\Sword Art Online\Sword Art Online - Alicization - 06.mkv' does not exist. File will now be copied.
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows
+-------------------------------------------------------------------------------
+
+  Started : Tuesday, November 13, 2018 2:55:10 PM
+   Source : D:\Seedbox\Completed_Downloads\
+     Dest : \\JPK-NAS2\TV_Shows\Sword Art Online\
+
+    Files : [HorribleSubs] Sword Art Online - Alicization - 06 [720p].mkv
+
+  Options : /COPYALL /R:1000000 /W:30
+
+------------------------------------------------------------------------------
+
+                           1    D:\Seedbox\Completed_Downloads\
+            New File             391.6 m        [HorribleSubs] Sword Art Online - Alicization - 06
+100%  .mkv
+2018/11/13 14:55:17 ERROR 1317 (0x00000525) Copying NTFS Security to Destination File D:\Seedbox\Co
+mpleted_Downloads\[HorribleSubs] Sword Art Online - Alicization - 06 [720p].mkv
+The specified account does not exist.
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         0         0         0         1         0
+   Bytes :  391.63 m         0         0         0  391.63 m         0
+   Times :   0:00:07   0:00:07                       0:00:00   0:00:00
+   Ended : Tuesday, November 13, 2018 2:55:17 PM
+New episode name will be Sword Art Online - Alicization - 06.mkv.
+\\JPK-NAS2\TV_Shows\Tensei Shitara Slime Datta Ken\Tensei Shitara Slime Datta Ken - 01.mkv already exists.
+'\\JPK-NAS2\TV_Shows\Tensei Shitara Slime Datta Ken\Tensei Shitara Slime Datta Ken - 02.mkv' does not exist. File will now be copied.
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows
+-------------------------------------------------------------------------------
+
+  Started : Tuesday, November 13, 2018 2:55:17 PM
+   Source : D:\Seedbox\Completed_Downloads\
+     Dest : \\JPK-NAS2\TV_Shows\Tensei Shitara Slime Datta Ken\
+
+    Files : [HorribleSubs] Tensei Shitara Slime Datta Ken - 02 [720p].mkv
+
+  Options : /COPYALL /R:1000000 /W:30
+
+------------------------------------------------------------------------------
+
+                           1    D:\Seedbox\Completed_Downloads\
+            New File             419.7 m        [HorribleSubs] Tensei Shitara Slime Datta Ken - 02
+100%  .mkv
+2018/11/13 14:55:24 ERROR 1317 (0x00000525) Copying NTFS Security to Destination File D:\Seedbox\Co
+mpleted_Downloads\[HorribleSubs] Tensei Shitara Slime Datta Ken - 02 [720p].mkv
+The specified account does not exist.
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         0         0         0         1         0
+   Bytes :  419.75 m         0         0         0  419.75 m         0
+   Times :   0:00:06   0:00:06                       0:00:00   0:00:00
+   Ended : Tuesday, November 13, 2018 2:55:24 PM
+New episode name will be Tensei Shitara Slime Datta Ken - 02.mkv.
+\\JPK-NAS2\TV_Shows\Tensei Shitara Slime Datta Ken\Tensei Shitara Slime Datta Ken - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Tensei Shitara Slime Datta Ken\Tensei Shitara Slime Datta Ken - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Tensei Shitara Slime Datta Ken\Tensei Shitara Slime Datta Ken - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Tensei Shitara Slime Datta Ken\Tensei Shitara Slime Datta Ken - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\Tensei Shitara Slime Datta Ken\Tensei Shitara Slime Datta Ken - 07.mkv already exists.
+\\JPK-NAS2\TV_Shows\Toaru Majutsu no Index\Season 03\Toaru Majutsu no Index III - 01 .mkv already exists.
+\\JPK-NAS2\TV_Shows\Toaru Majutsu no Index\Season 03\Toaru Majutsu no Index III - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\Zombieland Saga\Zombieland Saga - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Zombieland Saga\Zombieland Saga - 02 .mkv already exists.
+\\JPK-NAS2\TV_Shows\Zombieland Saga\Zombieland Saga - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Zombieland Saga\Zombieland Saga - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Zombieland Saga\Zombieland Saga - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Zombieland Saga\Zombieland Saga - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Zombieland Saga\Zombieland Saga - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181113145524
+**********************
+**********************
+Windows PowerShell transcript start
+Start time: 20181113145618
+Username: JPK-HTPC\HTPC
+RunAs User: JPK-HTPC\HTPC
+Configuration Name: 
+Machine: JPK-HTPC (Microsoft Windows NT 10.0.17134.0)
+Host Application: Powershell.exe C:\Github\Powershell\AnimeScraper\AnimeScraper.ps1
+Process ID: 16468
+PSVersion: 5.1.17134.228
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.17134.228
+BuildVersion: 10.0.17134.228
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is C:\Github\Powershell\AnimeScraper\AnimeScraper.log
+\\JPK-NAS2\TV_Shows\Ace Attorney\Season 02\Ace Attorney S2 - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Beelzebub-jou no Okinimesu mama\Beelzebub-jou no Okinimesu mama. - 01 .mkv already exists.
+\\JPK-NAS2\TV_Shows\Beelzebub-jou no Okinimesu mama\Beelzebub-jou no Okinimesu mama. - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Bonobono\Bonobono - 129.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 09.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 24.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 25.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 28.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 30.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 50.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 51.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 52.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 53.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 54.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 55.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 56.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 57.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 58.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 59.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 60.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 61.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 62.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 63.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 64.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 65.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 66.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 67.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 68.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 69.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 70.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 71.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 72.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 73.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 74.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 75.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 76.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 77.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 78.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 79.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 80.mkv already exists.
+\\JPK-NAS2\TV_Shows\Boruto - Naruto Next Generations\Boruto - Naruto Next Generations - 81.mkv already exists.
+\\JPK-NAS2\TV_Shows\Cardfight\Cardfight!! Vanguard (2018) - 23.mkv already exists.
+\\JPK-NAS2\TV_Shows\Fairy Tail\Fairy Tail Final Season - 278.mkv already exists.
+\\JPK-NAS2\TV_Shows\Gakuen Basara\Gakuen Basara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Goblin Slayer\Goblin Slayer - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\JoJo's Bizarre Adventure\Season 04\JoJo's Bizarre Adventure - Golden Wind - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 01 .mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 01 .mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Karakuri Circus\Karakuri Circus - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Kishuku Gakkou no Juliet\Kishuku Gakkou no Juliet - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\Merc Storia - Mukiryoku Shounen to Bin no Naka no Shoujo\Merc Storia - Mukiryoku Shounen to Bin no Naka no Shoujo - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Puzzle and Dragons Cross\Puzzle and Dragons Cross - 87.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Radiant\Radiant - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\Release the Spyce\Release the Spyce - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 02 .mkv already exists.
+\\JPK-NAS2\TV_Shows\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai\Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 38.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 39.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 40.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 41.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 42.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 43.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 44.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 45.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 46.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 47.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 48.mkv already exists.
+\\JPK-NAS2\TV_Shows\Shingeki no Kyojin\Season 03\Shingeki no Kyojin S3 - 49.mkv already exists.
+\\JPK-NAS2\TV_Shows\Sora to Umi no Aida\Sora to Umi no Aida - 02 .mkv already exists.
+\\JPK-NAS2\TV_Shows\Sora to Umi no Aida\Sora to Umi no Aida - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\SSSS.Gridman\SSSS.Gridman - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\Sword Art Online\Season 03\Sword Art Online - Alicization - 01.mkv already exists.
+'\\JPK-NAS2\TV_Shows\Sword Art Online\Season 03\Sword Art Online - Alicization - 02.mkv' does not exist. File will now be copied.
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows
+-------------------------------------------------------------------------------
+
+  Started : Tuesday, November 13, 2018 2:56:19 PM
+   Source : D:\Seedbox\Completed_Downloads\
+     Dest : \\JPK-NAS2\TV_Shows\Sword Art Online\Season 03\
+
+    Files : [HorribleSubs] Sword Art Online - Alicization - 02 [720p].mkv
+
+  Options : /COPYALL /R:1000000 /W:30
+
+------------------------------------------------------------------------------
+
+                           1    D:\Seedbox\Completed_Downloads\
+            New File             429.1 m        [HorribleSubs] Sword Art Online - Alicization - 02
+100%  .mkv
+2018/11/13 14:56:33 ERROR 1317 (0x00000525) Copying NTFS Security to Destination File D:\Seedbox\Co
+mpleted_Downloads\[HorribleSubs] Sword Art Online - Alicization - 02 [720p].mkv
+The specified account does not exist.
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         0         0         0         1         0
+   Bytes :  429.13 m         0         0         0  429.13 m         0
+   Times :   0:00:14   0:00:14                       0:00:00   0:00:00
+   Ended : Tuesday, November 13, 2018 2:56:33 PM
+New episode name will be Sword Art Online - Alicization - 02.mkv.
+'\\JPK-NAS2\TV_Shows\Sword Art Online\Season 03\Sword Art Online - Alicization - 03.mkv' does not exist. File will now be copied.
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows
+-------------------------------------------------------------------------------
+
+  Started : Tuesday, November 13, 2018 2:56:34 PM
+   Source : D:\Seedbox\Completed_Downloads\
+     Dest : \\JPK-NAS2\TV_Shows\Sword Art Online\Season 03\
+
+    Files : [HorribleSubs] Sword Art Online - Alicization - 03 [720p].mkv
+
+  Options : /COPYALL /R:1000000 /W:30
+
+------------------------------------------------------------------------------
+
+                           1    D:\Seedbox\Completed_Downloads\
+            New File             440.1 m        [HorribleSubs] Sword Art Online - Alicization - 03
+100%  .mkv
+2018/11/13 14:56:42 ERROR 1317 (0x00000525) Copying NTFS Security to Destination File D:\Seedbox\Co
+mpleted_Downloads\[HorribleSubs] Sword Art Online - Alicization - 03 [720p].mkv
+The specified account does not exist.
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         0         0         0         1         0
+   Bytes :  440.11 m         0         0         0  440.11 m         0
+   Times :   0:00:08   0:00:08                       0:00:00   0:00:00
+   Ended : Tuesday, November 13, 2018 2:56:42 PM
+New episode name will be Sword Art Online - Alicization - 03.mkv.
+'\\JPK-NAS2\TV_Shows\Sword Art Online\Season 03\Sword Art Online - Alicization - 04.mkv' does not exist. File will now be copied.
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows
+-------------------------------------------------------------------------------
+
+  Started : Tuesday, November 13, 2018 2:56:43 PM
+   Source : D:\Seedbox\Completed_Downloads\
+     Dest : \\JPK-NAS2\TV_Shows\Sword Art Online\Season 03\
+
+    Files : [HorribleSubs] Sword Art Online - Alicization - 04 [720p].mkv
+
+  Options : /COPYALL /R:1000000 /W:30
+
+------------------------------------------------------------------------------
+
+                           1    D:\Seedbox\Completed_Downloads\
+            New File             463.4 m        [HorribleSubs] Sword Art Online - Alicization - 04
+100%  .mkv
+2018/11/13 14:56:51 ERROR 1317 (0x00000525) Copying NTFS Security to Destination File D:\Seedbox\Co
+mpleted_Downloads\[HorribleSubs] Sword Art Online - Alicization - 04 [720p].mkv
+The specified account does not exist.
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         0         0         0         1         0
+   Bytes :  463.44 m         0         0         0  463.44 m         0
+   Times :   0:00:08   0:00:08                       0:00:00   0:00:00
+   Ended : Tuesday, November 13, 2018 2:56:51 PM
+New episode name will be Sword Art Online - Alicization - 04.mkv.
+'\\JPK-NAS2\TV_Shows\Sword Art Online\Season 03\Sword Art Online - Alicization - 05.mkv' does not exist. File will now be copied.
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows
+-------------------------------------------------------------------------------
+
+  Started : Tuesday, November 13, 2018 2:56:51 PM
+   Source : D:\Seedbox\Completed_Downloads\
+     Dest : \\JPK-NAS2\TV_Shows\Sword Art Online\Season 03\
+
+    Files : [HorribleSubs] Sword Art Online - Alicization - 05 [720p].mkv
+
+  Options : /COPYALL /R:1000000 /W:30
+
+------------------------------------------------------------------------------
+
+                           1    D:\Seedbox\Completed_Downloads\
+            New File             384.0 m        [HorribleSubs] Sword Art Online - Alicization - 05
+100%  .mkv
+2018/11/13 14:56:59 ERROR 1317 (0x00000525) Copying NTFS Security to Destination File D:\Seedbox\Co
+mpleted_Downloads\[HorribleSubs] Sword Art Online - Alicization - 05 [720p].mkv
+The specified account does not exist.
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         0         0         0         1         0
+   Bytes :  384.02 m         0         0         0  384.02 m         0
+   Times :   0:00:07   0:00:07                       0:00:00   0:00:00
+   Ended : Tuesday, November 13, 2018 2:56:59 PM
+New episode name will be Sword Art Online - Alicization - 05.mkv.
+'\\JPK-NAS2\TV_Shows\Sword Art Online\Season 03\Sword Art Online - Alicization - 06.mkv' does not exist. File will now be copied.
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows
+-------------------------------------------------------------------------------
+
+  Started : Tuesday, November 13, 2018 2:56:59 PM
+   Source : D:\Seedbox\Completed_Downloads\
+     Dest : \\JPK-NAS2\TV_Shows\Sword Art Online\Season 03\
+
+    Files : [HorribleSubs] Sword Art Online - Alicization - 06 [720p].mkv
+
+  Options : /COPYALL /R:1000000 /W:30
+
+------------------------------------------------------------------------------
+
+                           1    D:\Seedbox\Completed_Downloads\
+            New File             391.6 m        [HorribleSubs] Sword Art Online - Alicization - 06
+100%  .mkv
+2018/11/13 14:57:08 ERROR 1317 (0x00000525) Copying NTFS Security to Destination File D:\Seedbox\Co
+mpleted_Downloads\[HorribleSubs] Sword Art Online - Alicization - 06 [720p].mkv
+The specified account does not exist.
+
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         0         1         0         0         0
+   Files :         1         0         0         0         1         0
+   Bytes :  391.63 m         0         0         0  391.63 m         0
+   Times :   0:00:08   0:00:08                       0:00:00   0:00:00
+   Ended : Tuesday, November 13, 2018 2:57:08 PM
+New episode name will be Sword Art Online - Alicization - 06.mkv.
+\\JPK-NAS2\TV_Shows\Tensei Shitara Slime Datta Ken\Tensei Shitara Slime Datta Ken - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Tensei Shitara Slime Datta Ken\Tensei Shitara Slime Datta Ken - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Tensei Shitara Slime Datta Ken\Tensei Shitara Slime Datta Ken - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Tensei Shitara Slime Datta Ken\Tensei Shitara Slime Datta Ken - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Tensei Shitara Slime Datta Ken\Tensei Shitara Slime Datta Ken - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Tensei Shitara Slime Datta Ken\Tensei Shitara Slime Datta Ken - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\Tensei Shitara Slime Datta Ken\Tensei Shitara Slime Datta Ken - 07.mkv already exists.
+\\JPK-NAS2\TV_Shows\Toaru Majutsu no Index\Season 03\Toaru Majutsu no Index III - 01 .mkv already exists.
+\\JPK-NAS2\TV_Shows\Toaru Majutsu no Index\Season 03\Toaru Majutsu no Index III - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\Zombieland Saga\Zombieland Saga - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Zombieland Saga\Zombieland Saga - 02 .mkv already exists.
+\\JPK-NAS2\TV_Shows\Zombieland Saga\Zombieland Saga - 02.mkv already exists.
+\\JPK-NAS2\TV_Shows\Zombieland Saga\Zombieland Saga - 03.mkv already exists.
+\\JPK-NAS2\TV_Shows\Zombieland Saga\Zombieland Saga - 04.mkv already exists.
+\\JPK-NAS2\TV_Shows\Zombieland Saga\Zombieland Saga - 05.mkv already exists.
+\\JPK-NAS2\TV_Shows\Zombieland Saga\Zombieland Saga - 06.mkv already exists.
+\\JPK-NAS2\TV_Shows\Irozuku Sekai no Ashita kara\Irozuku Sekai no Ashita kara - 01.mkv already exists.
+\\JPK-NAS2\TV_Shows\Yagate Kimi ni Naru\Yagate Kimi ni Naru - 01.mkv already exists.
+**********************
+Windows PowerShell transcript end
+End time: 20181113145708
+**********************
