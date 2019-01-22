@@ -29,6 +29,7 @@ foreach ($Episode in $Downloads) {
                         -or $EpisodeName -match "Ace Attorney" `
                         -or $EpisodeName -match "Sword Art Online" `
                         -or $EpisodeName -match "JoJo's Bizarre Adventure" `
+                        -or $EpisodeName -match "Mob Psycho 100" `
                         -or $EpisodeName -match "Toaru Majutsu no Index") {
                             foreach ($AnimeSeason in $SeasonIndex) {
                                 $Script:SeasonName = $AnimeSeason.Name # Anime Season Name
